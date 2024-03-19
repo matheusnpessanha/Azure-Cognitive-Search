@@ -1,11 +1,5 @@
 # Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados
 
-## Como Entregar esse projeto?
-
-1. Crie um novo repositório no github com um nome a sua preferência
-2. Crie um um arquivo readme.md descrevendo o passo a passo para se configurar uma pesquisa, assim como seus insights, possibilidades de ferramentas que se beneficiam com esse tipo de ferramenta e aprendizados adquiridos durante o processo.
-3. Compartilhe conosco o link desse repositório através do botão 'entregar projeto'
-
 ## O que é Azure Cognitive Search?
 
 O Azure Cognitive Search é uma solução de pesquisa de alto desempenho que permite que você crie indexes de dados e aplique pesquisas complexas em dados de texto, imagem e dados estruturados.
